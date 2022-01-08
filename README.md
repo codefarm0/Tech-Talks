@@ -10,7 +10,7 @@
  
  👉 [Reactive Systems vs Reactive Programming](https://youtu.be/77zK0vfmOM0)
  
- 👉 [Password Management by Application | Encryption vs Hashing] (https://youtu.be/LdlmC2CKQqA)
+ 👉 [Password Management by Application | Encryption vs Hashing](https://youtu.be/LdlmC2CKQqA)
  
  👉
  
